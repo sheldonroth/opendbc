@@ -672,7 +672,7 @@ BO_ 643 DS11F01: 7 DS1
  SG_ PCSABK2 : 44|1@0+ (1,0) [0|0] "" Vector__XXX
  SG_ PCSNOCHG : 41|1@0+ (1,0) [0|0] "" Vector__XXX
  SG_ DS1F01SM : 55|8@0+ (1,0) [0|0] "" FCM
- SG_ ACC_CONTROL : 23|16@0- (.001,0) [0|0] "N" Vector__XXX
+ SG_ ACC_CONTROL : 23|16@0- (.001,0) [-20|20] "m/s^2" Vector__XXX
 
 BO_ 1041 DS12F02: 8 DS1
  SG_ PCSINDI : 7|2@0+ (1,0) [0|0] "" FCM
